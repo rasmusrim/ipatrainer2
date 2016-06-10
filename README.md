@@ -1,4 +1,9 @@
-ipatrainer2
-===========
+# IPA Trainer
 
-A Symfony project created on June 8, 2016, 7:03 pm.
+An entirely new version of the IPA Trainer based on Symfony.
+
+** TODO: **
+
+Right now, this Javascript class is where most help is needed.
+
+[IPA.js](https://github.com/rasmusrim/IPA.js): The Javascript class to create and manipulate the IPA tables and trapeziums.
